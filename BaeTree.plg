@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BaeTree - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x412 /fo"Debug/BaeTree.res" /d "_DEBUG" /d "_AFXDLL" "E:\dev\BaeTree\BaeTree.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/BaeTree.pdb" /debug /machine:I386 /out:"Debug/BaeTree.exe" /pdbtype:sept  .\Debug\BaeTree.obj .\Debug\BaeTreeDlg.obj .\Debug\StdAfx.obj .\Debug\BaeTree.res .\Debug\ShadowDlg.obj "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+BaeTree.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
